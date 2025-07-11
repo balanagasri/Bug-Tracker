@@ -140,45 +140,7 @@ Add this line to VM Options:
   <img src="https://user-images.githubusercontent.com/41492875/134807538-d7120601-6619-4162-9b68-0453ca2d2d11.png"/>
 </p>
 
-### Admin Dashboard 1
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/41492875/134807529-af9197d5-9d61-4ae9-ae83-221f0450ab6a.png"/>
-</p>
 
-### Admin Dashboard 2
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/41492875/134807535-72b72d35-c526-4de2-8422-38aceb84b850.png"/>
-</p>
-
-### Admin Dashboard 3
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/41492875/134807534-27caade9-368b-4fb7-a238-b751468cfdf4.png"/>
-</p>
-
-### Project Manager Dashboard
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/41492875/134807532-93c3a4db-b23a-4838-bbd1-a3b16769725b.png"/>
-</p>
-
-### Add Project Page
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/41492875/134807537-907aa061-aaab-4027-9694-fa7c4fc5a7ab.png"/>
-</p>
-
-### Add Bug Page
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/41492875/134807536-d11ab801-8054-462e-8eab-8494ac46d3eb.png"/>
-</p>
-
-### Bug Details Page
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/41492875/134807530-668c692d-48dd-4806-8a2a-71e909aa7b63.png"/>
-</p>
-
-### Project Details Page
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/41492875/134807526-feb99d5d-4dc1-4780-b685-4f9d10b4210f.png"/>
-</p>
 
 
 
